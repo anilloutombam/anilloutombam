@@ -16,7 +16,7 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3o6fJegzs3vuU5PqVi/giphy.gif" />
+<img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 <br />
 
 ### Hi 🙋‍♂️,
