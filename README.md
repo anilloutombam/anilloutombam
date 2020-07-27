@@ -13,7 +13,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anilloutombam.anilloutombam)
-
 <br />
 
 <img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
@@ -76,6 +75,8 @@
 ***********************************
 
 #### Thank You-🙏🏼
+![Visitor Count](https://profile-counter.glitch.me/{anilloutombam}/count.svg)
+
 
 
 
