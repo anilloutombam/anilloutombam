@@ -1,5 +1,4 @@
-### Hi there, I'm [Anil!](http://anilloutombam.me) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
-
+### Hi there, I'm [Anil!](http://anilloutombam.me) 👋.  
 
 <br/>
 <a href="https://twitter.com/anilloutombam">
