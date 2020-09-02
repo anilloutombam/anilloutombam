@@ -20,6 +20,7 @@
 ### Hi 🙋‍♂️,
 
 
+
  <img height="20" width="16" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs_larger.svg" alt="NodeJS"> Learning NodeJS  <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,GraphQL <code> 
 
@@ -41,7 +42,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilloutombam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anil's github stats](https://github-readme-stats.vercel.app/api?username=anilloutombam&count_private=true&show_icons=true&theme=radical&hide=prs,issues)
 
 
 *************
