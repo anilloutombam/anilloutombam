@@ -40,7 +40,7 @@
 
 **I am Into , 🙏**
 
-**Web Development,Competetive Programming 😼**
+**Web Development 😼**
 <br />
 
 
