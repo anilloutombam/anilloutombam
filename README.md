@@ -43,13 +43,14 @@
 **Web Development 😼**
 <br />
 
+## My GitHub Stats &#x1f4c8;
 
 
-<a href="https://github.com/catalinpit/catalinpit">
+<a href="https://github.com/anilloutombam/anilloutombam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilloutombam&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/catalinpit/catalinpit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anilloutombam&show_icons=true&count_private=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+<a href="https://github.com/anilloutombam/anilloutombam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anilloutombam&hide=prs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anil's GitHub Stats" />
 </a>
 
 *************
@@ -67,8 +68,10 @@
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
 </p>
-<a href="https://wakatime.com"><img  align="center"  width="50%" src="https://wakatime.com/share/@anil_loutombam/9da412f0-16a1-4eaa-9037-ba1b5bed74fd.png" /></a>
+## My Wakatime Stats &#x1f4c8;
 
+
+[![My's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@anil_loutombam)](https://github.com/anilloutombam/anilloutombam)
 
 ### - Blogs 🌱
 
