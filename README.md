@@ -1,4 +1,4 @@
-### Hi there, I'm [Anil!](http://anilloutombam.me) 👋.  
+### Hi there, I'm [Anil!](http://anilloutombam.me) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">.  
 
 <br/>
 <a href="https://twitter.com/anilloutombam">
