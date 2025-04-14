@@ -40,6 +40,13 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![Next.JS](https://img.shields.io/badge/-Next.JS-black?style=flat-square&logo=next.js)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![](https://img.shields.io/badge/-PostGreSQL-white?style=flat-square&logo=postgresql)
+
+
+
 
 
 ## My GitHub Stats &#x1f4c8;
