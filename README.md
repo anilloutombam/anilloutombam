@@ -2,9 +2,9 @@
 
 Building software in the open has been one of the most rewarding parts of my engineering journey.
 
-For the past **3+ years**, I've actively contributed to the **DIGIT (Digital Infrastructure for Governance, Impact & Transformation)** ecosystem developed by the **eGovernments Foundation**—an open-source Digital Public Infrastructure (DPI) platform powering government services across sanitation, healthcare, village governance, and citizen services.
+Between **2022 and 2024**, I actively contributed to production-grade open-source software through the **eGovernments Foundation**, working across the **DIGIT (Digital Infrastructure for Governance, Impact & Transformation)** platform. My work included enterprise React applications, Flutter mobile platforms, shared component libraries, platform engineering, DevOps, release engineering, and production deployments supporting government digital services.
 
-Most of my production engineering work lives inside the **eGovernments GitHub organisation**, where I've contributed across enterprise React applications, Flutter mobile platforms, shared component libraries, backend integrations, platform engineering, DevOps, release engineering, and production deployments.
+While my personal GitHub showcases side projects, experiments, and technical writing, my production engineering contributions are primarily available through the **eGovernments Foundation GitHub organisation**.
 
 ---
 
@@ -12,204 +12,162 @@ Most of my production engineering work lives inside the **eGovernments GitHub or
 
 | Metric | Value |
 |---------|------:|
-| Pull Requests | 214 |
-| Repositories Contributed | 10+ |
-| Production Releases | Multiple |
-| Years Contributing | 3+ |
-| Enterprise React Projects | Multiple |
-| Flutter Mobile Platforms | 1+ |
-| Shared Libraries | Multiple |
-| Platform & DevOps Repositories | Multiple |
+| Pull Requests | **214** |
+| Active Contribution Period | **2022 – 2024** |
+| Repositories Contributed | **10+** |
+| Production Releases | **Multiple** |
+| Enterprise Applications | **Multiple** |
+| Mobile Platforms | **1 Major Flutter Platform** |
+| Shared Libraries | **Multiple** |
+| Platform & DevOps Projects | **Multiple** |
 
 ---
 
-# 🛠 Technology Stack
+# ⭐ Engineering Highlights
 
-## Frontend
+Throughout my contributions, I worked across the complete software delivery lifecycle—from feature development and architecture to production support and release engineering.
 
-- React
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- Redux Toolkit
-- React Query
-- React Router
-- Storybook
-- Micro Frontend Architecture
+### Frontend Engineering
 
-### UI Engineering
+- Built enterprise React applications for citizen-facing and employee-facing government platforms.
+- Developed reusable component libraries shared across multiple DIGIT applications.
+- Implemented authentication, workflow systems, dashboards, search experiences, and dynamic forms.
+- Improved application performance through lazy loading, virtualization, memoization, and rendering optimizations.
+- Delivered responsive, accessible, and localized user interfaces.
 
-- Design Systems
-- Shared Component Libraries
+### Mobile Engineering
+
+- Developed Flutter features for healthcare field worker applications.
+- Built beneficiary management, household workflows, inventory management, referral flows, and offline-first capabilities.
+
+### Platform Engineering
+
+- Contributed to shared platform configuration (MDMS).
+- Worked on deployment automation, environment configuration, and DevOps repositories.
+- Supported production deployments and release validation.
+
+### Engineering Excellence
+
+- Production bug fixes
+- Performance optimization
+- Code reviews
+- Refactoring
+- Release engineering
+- Technical documentation
+
+---
+
+# 🏗 Featured Projects
+
+## SANITATION
+
+Urban governance platform for managing sanitation services.
+
+### Contributions
+
+- Workflow enhancements
+- TQM module improvements
+- Dashboard improvements
+- Authentication
+- Localization
+- UI/UX refinements
+- Performance optimizations
+- Production bug fixes
+
+---
+
+## digit-ui
+
+Shared React component library used across multiple DIGIT applications.
+
+### Contributions
+
+- Shared React components
 - Custom Hooks
-- Context API
-- Higher Order Components
-- Component Composition
-- Responsive Design
-- WCAG Accessibility
-- Semantic HTML
-- SCSS / SASS
-- Tailwind CSS
-- Material UI
-- Styled Components
+- Storybook documentation
+- Authentication improvements
+- Search enhancements
+- Inbox improvements
+- Component architecture
 
 ---
 
-## Mobile
+## DIGIT Frontend
 
-- Flutter
-- Dart
-- flutter_bloc
-- AutoRoute
-- Reactive Forms
-- Isar Database
-- Freezed
-- Build Runner
+Enterprise React platform powering multiple government applications.
 
----
+### Contributions
 
-## Backend & Data
-
-- Node.js
-- Express.js
-- REST APIs
-- GraphQL
-- PostgreSQL
-- Prisma
-- MongoDB
+- Citizen workflows
+- Employee workflows
+- Shared platform modules
+- Enterprise UI development
 
 ---
 
-## Platform Engineering
+## Health Campaign Field Worker App
 
-- Docker
-- Jenkins
-- GitLab CI/CD
-- Kubernetes
-- Helm
-- YAML
-- MDMS
-- GitHub Actions
+Flutter application for healthcare field operations.
 
----
+### Contributions
 
-## Engineering Practices
-
-- Release Engineering
-- Performance Optimisation
-- Accessibility
-- CI/CD
-- Production Support
-- Code Splitting
-- Lazy Loading
-- Memoization
-- Virtualized Rendering
-- Technical Documentation
+- Beneficiary Management
+- Household workflows
+- Future Delivery
+- Past Delivery
+- Referral Management
+- Inventory Management
+- Offline-first workflows
 
 ---
 
-# 🏗 Projects Contributed To
+## DIGIT DevOps
 
-| Repository | Domain | Technologies |
-|------------|--------|--------------|
-| SANITATION | Urban Governance | React, TypeScript |
-| digit-ui | Shared Component Library | React, Storybook |
-| DIGIT Frontend | Enterprise Platform | React, Next.js |
-| Digit Core | Core Libraries | React, TypeScript |
-| Punjab mGramseva | Village Governance | React |
-| Health Campaign Field Worker App | Mobile Platform | Flutter |
-| Health Campaign MDMS | Platform Configuration | MDMS |
-| egov-mdms-data | Master Data Platform | MDMS |
-| DIGIT DevOps | Deployment & Infrastructure | Jenkins, Kubernetes |
-| configs | Environment Configuration | YAML |
+Deployment and infrastructure repositories supporting the DIGIT platform.
+
+### Contributions
+
+- Deployment configuration
+- Jenkins pipelines
+- Environment configuration
+- Platform deployment support
+- Release support
 
 ---
 
 # 🚀 Production Releases
 
-My contributions have been shipped as part of multiple production releases across the DIGIT ecosystem.
+My work has shipped as part of multiple production releases across the DIGIT platform.
 
 ## Featured Release
 
 ### SANITATION v1.4.2
 
-🔗 https://github.com/egovernments/SANITATION/releases/tag/release-v1.4.2
+Official Release Notes
 
-Highlights include:
+https://github.com/egovernments/SANITATION/releases/tag/release-v1.4.2
+
+Representative contributions included:
 
 - Workflow enhancements
-- TQM platform improvements
-- Dashboard enhancements
-- UI/UX refinements
+- Dashboard improvements
 - Authentication updates
-- Localisation improvements
+- UI refinements
+- Localization improvements
+- Performance optimizations
 - Production bug fixes
-- Performance optimisations
 
 ---
 
-# 💡 Areas of Contribution
+# ✍ Featured Technical Writing
 
-## Frontend Engineering
+## Beyond Test Automation: Building a Scalable End-to-End Testing Platform for Release Confidence
 
-- Enterprise React Applications
-- Citizen Portal
-- Employee Portal
-- Workflow Systems
-- Authentication
-- Search Experience
-- Dashboard Development
-- Dynamic Forms
-- Accessibility
+A deep dive into how I transformed a manual regression process into a scalable engineering platform using Playwright, CI/CD, deterministic execution, reusable testing infrastructure, and AI-assisted coverage analysis.
 
----
+### Read the article
 
-## Mobile Engineering
-
-- Flutter Development
-- Offline-first Workflows
-- Beneficiary Management
-- Household Management
-- Referral Management
-- Inventory Management
-- QR Workflows
-
----
-
-## Platform Engineering
-
-- Shared Component Libraries
-- Environment Configuration
-- Build Automation
-- Deployment Pipelines
-- Release Synchronisation
-- Deployment Validation
-
----
-
-## Quality Engineering
-
-- Production Bug Fixes
-- Refactoring
-- Performance Optimisation
-- Stability Improvements
-- Regression Prevention
-
----
-
-# ✍ Technical Writing
-
-I enjoy documenting engineering decisions, architectural trade-offs, and lessons learned while building production software.
-
-## Latest Article
-
-### Beyond Test Automation: Building a Scalable End-to-End Testing Platform for Release Confidence
-
-How a manual regression process evolved into an engineering platform using Playwright, CI/CD, deterministic execution, and AI-assisted coverage analysis.
-
-📖 Read the article:
-
-**https://anilloutombam.medium.com/beyond-test-automation-be7b01d097ec**
+https://anilloutombam.medium.com/beyond-test-automation-be7b01d097ec
 
 ---
 
@@ -231,43 +189,61 @@ My personal GitHub contains:
 
 - Personal projects
 - Portfolio source code
-- Side projects
 - Technical experiments
 - Learning repositories
-- Engineering demos
+- Side projects
 
 ---
 
 ## 🌍 eGovernments Foundation
 
-Most of my production open-source contributions are available within the official eGovernments Foundation organisation.
-
-Organisation:
+Most of my production open-source engineering work is available through the official eGovernments Foundation organisation.
 
 https://github.com/egovernments
 
+### Featured Repositories
+
+- SANITATION  
+  https://github.com/egovernments/SANITATION
+
+- DIGIT Frontend  
+  https://github.com/egovernments/DIGIT-Frontend
+
+- digit-ui  
+  https://github.com/egovernments/digit-ui
+
+- Digit Core  
+  https://github.com/egovernments/Digit-Core
+
+- Health Campaign Field Worker App  
+  https://github.com/egovernments/health-campaign-field-worker-app
+
+- DIGIT DevOps  
+  https://github.com/egovernments/DIGIT-DevOps
+
+- Configurations  
+  https://github.com/egovernments/configs
+
 ---
 
-## 🚀 Browse My Open Source Contributions
+## 🚀 Browse My Pull Requests
 
-View every Pull Request I've contributed across the organisation.
-
-https://github.com/pulls?q=is%3Apr+author%3Aanilsingha-eGov+org%3Aegovernments
+https://github.com/search?q=org%3Aegovernments+author%3Aanilsingha-eGov&type=pullrequests
 
 ---
 
 ## ✍ Medium
 
-Engineering articles covering:
+https://anilloutombam.medium.com
+
+Topics include:
 
 - Playwright
-- Test Automation
 - Engineering Ownership
-- System Design
 - Frontend Engineering
-- Performance Optimisation
-
-https://medium.com/@anilloutombam
+- Testing Infrastructure
+- Performance Engineering
+- System Design
 
 ---
 
@@ -279,6 +255,6 @@ https://www.linkedin.com/in/anil-loutombam
 
 # 📈 Engineering Philosophy
 
-Open source has taught me that engineering extends far beyond writing code.
+Open source has reinforced that engineering is about much more than writing code.
 
-It is about designing maintainable systems, collaborating across distributed teams, improving developer experience, building reusable abstractions, shipping reliable production software, and taking ownership throughout the entire software delivery lifecycle—from the first line of code to production releases and long-term maintenance.
+It is about designing maintainable systems, collaborating across distributed teams, building reusable abstractions, improving developer experience, shipping reliable production software, and taking ownership throughout the software delivery lifecycle—from design and implementation to production releases and long-term maintenance.
