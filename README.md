@@ -1,18 +1,288 @@
+# 🌍 Open Source Contributions
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-loutombam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilsingha.code@gmail.com) 
+I actively contribute to the **DIGIT (Digital Infrastructure for Governance, Impact & Transformation)** open-source ecosystem by eGovernments Foundation, helping build software used by governments to deliver digital public services at scale.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anilloutombam&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=anilloutombam&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anilloutombam&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Over the past few years I've contributed across frontend applications, Flutter mobile apps, shared component libraries, platform configuration, DevOps, deployment pipelines, and production releases.
 
 ---
-[![](https://komarev.com/ghpvc/?username=anilloutombam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 Contribution Highlights
+
+- 🚀 **200+ Pull Requests** across multiple repositories
+- 📦 Contributions included in multiple production releases
+- ⚛️ React & Next.js development
+- 📱 Flutter application development
+- 🏗 Shared UI component libraries
+- ⚙️ DevOps & deployment configuration
+- 📚 Documentation & developer experience
+- 🐞 Production bug fixes
+- ⚡ Performance improvements
+- 🎨 UI/UX enhancements
+
+---
+
+# 🏛 Projects Contributed To
+
+## 🖥 Frontend Platforms
+
+### DIGIT Frontend
+
+Enterprise frontend powering multiple public-sector digital services.
+
+**Highlights**
+
+- Authentication
+- Workflow UI
+- Project Management
+- UI Improvements
+- Performance Fixes
+- Feature Development
+
+---
+
+### DIGIT UI
+
+Shared component library used across the DIGIT ecosystem.
+
+Contributions include
+
+- Custom Hooks
+- Configuration
+- Authentication
+- Workflow fixes
+- Inbox V2 migration
+- Search improvements
+- Reload fixes
+- Toast notifications
+- TQM support
+
+---
+
+### SANITATION
+
+One of the largest repositories I contributed to.
+
+Areas include
+
+- Citizen workflows
+- Employee workflows
+- UI/UX improvements
+- Dashboard fixes
+- Vehicle management
+- FSM enhancements
+- TQM platform
+- Performance fixes
+- Localisation
+- Package upgrades
+- CSS architecture
+- Modularisation
+- Unbundling
+- Workflow improvements
+
+---
+
+### Punjab mGramseva
+
+Village governance platform.
+
+Worked on
+
+- Authentication
+- HRMS
+- Role Management
+- Employee Portal
+- Password Management
+- Workflow
+- UI improvements
+- Search
+- Validation
+- Release synchronisation
+
+---
+
+### Health Campaign Field Worker App (Flutter)
+
+Large-scale Flutter application used for health campaigns.
+
+Contributions include
+
+- Future Delivery
+- Record Past Delivery
+- Inventory Flow
+- Resource Management
+- Beneficiary Management
+- API Integration
+- Bloc Architecture
+- Localisation
+- Dynamic Stepper
+- UI Components
+- Navigation
+- Validation
+- Offline Improvements
+
+---
+
+# ⚙ Platform & Infrastructure
+
+## DIGIT DevOps
+
+Worked on
+
+- Deployment pipelines
+- Jenkins
+- Configuration
+- Build automation
+- Environment setup
+- Workbench configuration
+- Localisation deployment
+- Health platform deployment
+
+---
+
+## MDMS
+
+Contributed to platform configuration across multiple products.
+
+Examples
+
+- Health
+- FSM
+- TQM
+- Citizen Portal
+- Dashboard
+- Boundary hierarchy
+- Role configuration
+- Workflow configuration
+
+---
+
+## Digit Core
+
+Shared libraries and reusable platform components.
+
+Contributions include
+
+- Core Libraries
+- Workspace setup
+- Typography
+- Icons
+- Responsive Design
+- Package architecture
+
+---
+
+# 💡 Types of Contributions
+
+## Feature Development
+
+Implemented production-ready features across React, Flutter and shared libraries.
+
+---
+
+## Production Bug Fixes
+
+Resolved production issues impacting
+
+- Authentication
+- Search
+- Navigation
+- Workflow
+- Forms
+- Employee Portal
+- Citizen Portal
+
+---
+
+## Performance
+
+Improved
+
+- Rendering
+- Search
+- Navigation
+- Workflow execution
+- Bundle structure
+
+---
+
+## Developer Experience
+
+Improved
+
+- Documentation
+- Configuration
+- Package management
+- Shared libraries
+- Project structure
+
+---
+
+## Release Engineering
+
+Contributed to
+
+- Release branches
+- Sync PRs
+- Deployment fixes
+- Production validation
+- Configuration updates
+
+---
+
+# 🛠 Technologies
+
+**Frontend**
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+
+**Mobile**
+
+- Flutter
+- Dart
+
+**Backend Integration**
+
+- REST APIs
+- GraphQL
+
+**Platform**
+
+- MDMS
+- DevOps
+- Jenkins
+- Docker
+
+**Testing**
+
+- Playwright
+- Storybook
+
+---
+
+# 📈 Engineering Philosophy
+
+Open source has taught me that engineering is more than writing code.
+
+It is about
+
+- designing maintainable software
+- collaborating through code reviews
+- shipping reliable releases
+- thinking about long-term maintainability
+- improving developer experience
+- building software that serves thousands of users
+
+---
+
+## 🔗 Explore My Contributions
+
+GitHub Profile
+
+https://github.com/anilloutombam
+
+Portfolio
+
+https://anil-singha.vercel.app
