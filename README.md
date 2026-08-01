@@ -63,10 +63,8 @@ A technical deep dive into building a scalable Playwright testing platform with 
 
 ## 🔗 Links
 
-- [Portfolio](https://anil-singha.vercel.app)
-- [Personal GitHub](https://github.com/anilloutombam)
-- [eGovernments pull requests](https://github.com/search?q=org%3Aegovernments+author%3Aanilsingha-eGov&type=pullrequests)
-- [Medium](https://anilloutombam.medium.com)
-- [LinkedIn](https://www.linkedin.com/in/anil-loutombam)
+## 🔗 Links
+
+[Portfolio](https://anil-singha.vercel.app) · [GitHub](https://github.com/anilloutombam) · [DEV Community](https://dev.to/anilloutombam) · [Medium](https://anilloutombam.medium.com) · [LinkedIn](https://www.linkedin.com/in/anil-loutombam) · [eGovernments Contributions](https://github.com/search?q=org%3Aegovernments+author%3Aanilsingha-eGov&type=pullrequests)
 
 I value maintainable systems, reusable abstractions, thoughtful collaboration, and ownership from implementation through production.
