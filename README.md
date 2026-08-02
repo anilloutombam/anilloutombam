@@ -61,7 +61,6 @@ I recently contributed several fixes to [npmx](https://github.com/npmx-dev/npmx.
 
 A technical deep dive into building a scalable Playwright testing platform with reusable infrastructure, deterministic execution, CI/CD integration, and AI-assisted coverage analysis.
 
-## 🔗 Links
 
 ## 🔗 Links
 
