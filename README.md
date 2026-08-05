@@ -13,7 +13,6 @@ I contribute to [npmx](https://github.com/npmx-dev/npmx.dev), an open-source bro
 
 Selected contributions:
 
-- [PR #3102](https://github.com/npmx-dev/npmx.dev/pull/3102) — Fixed incorrect TypeScript-removal events in package timelines.
 - [PR #3103](https://github.com/npmx-dev/npmx.dev/pull/3103) — Prioritized verified exact package-name matches in Algolia search.
 - [PR #3109](https://github.com/npmx-dev/npmx.dev/pull/3109) — Fixed a search race condition during preference hydration.
 - [PR #3120](https://github.com/npmx-dev/npmx.dev/pull/3120) — Fixed an infinite loading state for oversized files in the package code browser.
